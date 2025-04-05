@@ -1,4 +1,4 @@
-# Local AI Agent with RAG
+# Local AI Agent with RAG and MCP
 
 This project implements a local AI agent that utilizes Retrieval-Augmented Generation (RAG) to enhance its capabilities. The agent is designed to work offline, ensuring data privacy and security while providing intelligent responses.
 
